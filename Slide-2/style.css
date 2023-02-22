@@ -167,7 +167,7 @@ body {
   16% {
     transform: scale(-1, 1);
     color: #db2ca0;
-    font-size: 1;
+    font-size: 2;
   }
   17% {
     transform: scale(1, 1);
@@ -207,7 +207,7 @@ body {
   16% {
     transform: scale(-1, 1);
     color: #db2ca0;
-    font-size: 1;
+    font-size: 2;
   }
   17% {
     transform: scale(1, 1);
