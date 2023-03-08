@@ -1,10 +1,10 @@
 let counter = 0;
 let timer;
 let playlist = [
-    { name: "slide-2", source: "../Slide-2/index.html", time: "5" },
-    { name: "slide-3", source: "../Slide-3/index.html", time: "5" },
-    { name: "slide-4", source: "../Slide-4/index.html", time: "5" },
-    { name: "slide-5", source: "../Slide-5/index.html", time: "5" }
+    { name: "slide-2", source: "../Slide-2/index.html", time: "30" },
+    { name: "slide-3", source: "../Slide-3/index.html", time: "20" },
+    { name: "slide-4", source: "../Slide-4/index.html", time: "20" },
+    { name: "slide-5", source: "../Slide-5/index.html", time: "30" }
 ]
 function init() {
     startTimer();
